@@ -4,4 +4,4 @@ Move là ngôn ngữ lập trình an toàn và đáng tin cậy được tạo r
 
 Cuốn sách này là tập hợp những thông tin về ngôn ngữ Move mà tôi đã tìm thấy và tổng hợp lại.
 
-Lưu ý: có một số thuật ngữ tôi ngữ không nên dịch sang tiếng Việt do không tìm được từ sát nghĩa nên vẫn giữ nguyên bản gốc tiếng Anh.
+(Lưu ý cho bản dịch tiếng Việt: có một số thuật ngữ tôi nghĩ không nên dịch sang tiếng Việt do không tìm được từ sát nghĩa.)

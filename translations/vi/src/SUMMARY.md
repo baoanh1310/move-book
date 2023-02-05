@@ -14,7 +14,7 @@
     - [Hàm](syntax-basics/function.md)
 - [Các chủ đề nâng cao](advanced-topics/README.md)
     - [Struct](advanced-topics/struct.md)
-    - [Định nghĩa Types cùng các Abilities](advanced-topics/types-with-abilities.md)
+    - [Types & Abilities](advanced-topics/types-with-abilities.md)
     - [Khái niệm ownership và tham chiếu](advanced-topics/ownership-and-references.md)
     - [Generics](advanced-topics/understanding-generics.md)
     - [Vectors](advanced-topics/managing-collections-with-vectors.md)
